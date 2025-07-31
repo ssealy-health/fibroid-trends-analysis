@@ -1,7 +1,17 @@
 # 📊 Public Interest in Fibroid Treatments: UFE vs Myomectomy (Google Trends Analysis)
 
-## 🧠 Project Summary
-This project explores public interest in two common uterine fibroid treatments — **Uterine Fibroid Embolization (UFE)** and **Myomectomy** — using Google Trends data. The goal is to understand how awareness and search behavior vary over time and geography.
+## 🧠 Project Summary: Comparing Public Interest in Fibroid Treatments
+
+Uterine fibroids are non-cancerous tumors that grow in or on the uterus, affecting up to 70–80% of women by age 50, with disproportionately higher rates and severity among Black women. Symptoms can include heavy menstrual bleeding, pelvic pain, bloating, and fertility challenges.
+
+This project explores public interest in two common fibroid treatment options using Google Trends data:
+
+- **Myomectomy** – A surgical procedure that removes fibroids while preserving the uterus.
+- **Uterine Fibroid Embolization (UFE)** – A minimally invasive, non-surgical procedure performed by an interventional radiologist. UFE works by cutting off the blood supply to fibroids, causing them to shrink over time.
+
+While both treatments are clinically effective, UFE is often underutilized, possibly due to limited public awareness or lack of discussion during clinical consultations.
+
+This analysis aims to highlight trends in public search interest, identify awareness gaps, and explore how media events or public health campaigns might influence knowledge about treatment options.
 
 ## 🔍 Key Questions
 - Which treatment has higher public search interest?
