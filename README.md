@@ -30,7 +30,8 @@ This analysis aims to highlight trends in public search interest, identify aware
 
 ## 📈 Visualizations
 
-Line Chart of Google Search Interest Over Time
+<img width="600" height="371" alt="Google Search Trends_ UFE vs Myomectomy (Last 5 Years)" src="https://github.com/user-attachments/assets/75b8680e-4c18-45a8-b944-60aac26f47d6" />
+This graph shows how public interest in the topic has changed over time, with peaks indicating moments of heightened attention.
 
 
 # 📊 Fibroid Treatment Search Spikes (2022–2025)
@@ -92,5 +93,5 @@ Encouraging more real-world stories via blogs, YouTube, and TikTok from women wh
 
 ## 🤝 Let's Connect      
 Feel free to reach out if you have feedback or suggestions for collaboration! - [LinkedIn](linkedin.com/in/sophia-s-945229121)
-<img width="600" height="371" alt="Google Search Trends_ UFE vs Myomectomy (Last 5 Years)" src="https://github.com/user-attachments/assets/75b8680e-4c18-45a8-b944-60aac26f47d6" />
+
 [FibroidGoogleTrends.csv](https://github.com/user-attachments/files/21519558/FibroidGoogleTrends.csv)
