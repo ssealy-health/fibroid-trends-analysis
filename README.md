@@ -25,6 +25,32 @@ Line Chart of Google Search Interest Over Time
 ## 💡 Key Insights
 - **Myomectomy** has consistently higher search volume than **UFE**, possibly due to being a more commonly recommended procedure.
 - Public interest may correlate with awareness campaigns or media coverage.
+- Despite being a minimally invasive alternative to surgery, UFE has consistently low public search interest, peaking at just 11 on the Google Trends index. This suggests a significant gap in public awareness compared to myomectomy — potentially driven by a lack of provider recommendation, patient education, or media coverage.
+
+## 📣 How Can Public Knowledge of UFE Be Increased?
+
+Despite being a minimally invasive alternative to surgery, **Uterine Fibroid Embolization (UFE)** shows consistently low search interest in comparison to **myomectomy**, peaking at only 11 on the Google Trends index. This suggests that many people may not be aware that non-surgical options like UFE even exist. Increasing public awareness could help patients make more informed and personalized treatment decisions.
+
+### 🔹 1. Increased Provider Education
+Many OB/GYNs are more familiar with surgical options like myomectomy and may not present UFE unless they are connected with interventional radiologists. Awareness campaigns should focus not only on patients but also on expanding provider knowledge about UFE.
+
+### 🔹 2. Influencer and Community Health Campaigns
+Social media influencers, celebrities, and advocacy groups who share fibroid experiences can amplify awareness of less invasive treatments. Past public interest spikes in health terms often coincide with celebrity discussions or news coverage.
+
+### 🔹 3. Healthcare Platform Visibility
+Authoritative medical websites (e.g., Mayo Clinic, WebMD) and hospital systems should feature clearer, side-by-side comparisons of UFE vs. myomectomy. Optimizing health-related Google content to include UFE in “People also ask” and featured snippets would also improve discoverability.
+
+### 🔹 4. Better Terminology and SEO
+“Uterine fibroid embolization” is a technical term that patients may not know to search. Campaigns should use more accessible language like:
+- "Non-surgical fibroid treatment"
+- "Shrink fibroids without surgery"
+- "Alternative to fibroid surgery"
+
+This can improve patient engagement and increase search interest organically.
+
+### 🔹 5. Patient Testimonials and Storytelling
+Encouraging more real-world stories via blogs, YouTube, and TikTok from women who have undergone UFE can humanize the procedure and reduce fear or misinformation. These testimonials can also highlight quicker recovery times and post-treatment quality of life.
+  
 
 ## 📎 Files in this Repository
 - `FibroidGoogleTrends.csv`: Raw data exported from Google Trends
