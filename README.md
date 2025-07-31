@@ -91,7 +91,6 @@ Encouraging more real-world stories via blogs, YouTube, and TikTok from women wh
 - `README.md`: Project documentation
 
 ## 🤝 Let's Connect      
-Feel free to reach out if you have feedback or suggestions for collaboration!
-- [LinkedIn](linkedin.com/in/sophia-s-945229121)
+Feel free to reach out if you have feedback or suggestions for collaboration! - [LinkedIn](linkedin.com/in/sophia-s-945229121)
 <img width="600" height="371" alt="Google Search Trends_ UFE vs Myomectomy (Last 5 Years)" src="https://github.com/user-attachments/assets/75b8680e-4c18-45a8-b944-60aac26f47d6" />
 [FibroidGoogleTrends.csv](https://github.com/user-attachments/files/21519558/FibroidGoogleTrends.csv)
