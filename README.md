@@ -88,8 +88,6 @@ Encouraging more real-world stories via blogs, YouTube, and TikTok from women wh
 ## 📎 Files in this Repository
 - [FibroidGoogleTrends.csv](https://github.com/user-attachments/files/21519558/FibroidGoogleTrends.csv): Raw data exported from Google Trends
 - [FibroidGoogleTrends_Cleaned.pdf](https://github.com/user-attachments/files/21520393/FibroidGoogleTrends_Cleaned.pdf): Prepped file with visuals
-- `images/`: Folder with exported chart images
-- `README.md`: Project documentation
 
 ## 🤝 Let's Connect      
 Feel free to reach out if you have feedback or suggestions for collaboration! - [LinkedIn](linkedin.com/in/sophia-s-945229121)
