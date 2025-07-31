@@ -22,6 +22,28 @@ This project explores public interest in two common uterine fibroid treatments �
 
 Line Chart of Google Search Interest Over Time
 
+
+# 📊 Fibroid Treatment Search Spikes (2022–2025)
+
+This timeline highlights key events that correlate with significant search spikes in fibroid treatment awareness. These spikes were likely influenced by scientific breakthroughs, celebrity advocacy, and legislative activity.
+
+## 🔹 Timeline of Spikes
+
+| **Date**        | **Event Summary**                                                                 |
+|------------------|-----------------------------------------------------------------------------------|
+| **Sept 17, 2022** | **Biggest spike.** Results from PRIMROSE 1 & 2 trials published in *The Lancet* showing Linzagolix (Yselty) effectively treats fibroids. Covered widely by Yale, Tech Networks & more. |
+| **Oct 9, 2022**  | FDA spotlight on minimally invasive procedures (Acessa, Sonata). Follow-up from Fibroid Awareness Month sustained public interest. |
+| **Jan 26, 2025** | Federal legislation introduced: U-FIGHT Act & HER Act to fund fibroid research, supported by bipartisan lawmakers and advocacy groups. |
+| **Mar 3, 2025**  | Actress Lupita Nyong’o shared her fibroid surgery story, launched a research grant, and joined public advocacy efforts — sparking viral conversations. |
+| **Apr 14, 2025** | Vanderbilt University released genetic study on fibroids. UAE procedure validated for outpatient use — major win for non-surgical treatment access. |
+
+## 🌟 Themes & Insights
+- **Celebrity Advocacy:** Personal stories helped normalize conversation and drive awareness.
+- **Scientific Milestones:** Oral treatments and genetic discoveries brought hope for non-invasive, targeted care.
+- **Legislative Action:** Momentum building for research funding and patient-centered solutions.
+
+  
+
 ## 💡 Key Insights
 - **Myomectomy** has consistently higher search volume than **UFE**, possibly due to being a more commonly recommended procedure.
 - Public interest may correlate with awareness campaigns or media coverage.
